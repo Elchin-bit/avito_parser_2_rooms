@@ -1,4 +1,4 @@
-# 🏠 Avito Apartment Parser Pro
+# 🏠 Avito Apartment Parser
 
 Telegram bot for real-time monitoring of new apartment listings on Avito with enterprise-grade WAF bypass, customizable filters, and instant notifications.
 
@@ -25,7 +25,7 @@ Telegram bot for real-time monitoring of new apartment listings on Avito with en
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/Elchin-bit/avito_parser_2_rooms.git](https://github.com/Elchin-bit/avito_parser_2_rooms.git)
+git clone https://github.com/Elchin-bit/avito_parser_2_rooms.git
 cd avito-apartment-parser 
 ```
 
