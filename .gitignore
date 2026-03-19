@@ -1,0 +1,16 @@
+# Приватные данные и базы
+config.py
+avito_data.csv
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
